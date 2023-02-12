@@ -28,7 +28,6 @@ public class MainActivity extends AppCompatActivity {
 
         });
         memo.setOnClickListener(new View.OnClickListener() {
-            @Override
             public void onClick(View view) {
                 Intent intent = new Intent(view.getContext(), MainActivity3.class);
                 startActivity(intent);
