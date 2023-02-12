@@ -6,4 +6,4 @@ L'application contient un ensemble de fonctionnalités simple à utiliser:
 	1- La calculatrice: votre outil pour effectuer vos opérations arithmétiques
 	2- Le journal intime: ici, vous pouvez enregistrer vos remarques, vos pensées,...
 	3- l'alarme: pour aider à gérer votre temps et créer votre programme à suivre
-	4- le jeu: Un divertissement de plus que l'application vous offre
+	4- le jeu: Un divertissement de plus que l'application vous offre.
